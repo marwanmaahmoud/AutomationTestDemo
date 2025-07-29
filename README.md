@@ -1,4 +1,5 @@
 🧪 Rahul Shetty Academy – E-Commerce Website Automation Testing
+
 📌 Overview
 This project demonstrates end-to-end automation testing of the Rahul Shetty Academy Client Portal, an e-commerce web application. The primary goal is to validate core user journeys such as login, product purchase, cart management, and order confirmation using automated test scripts.
 
