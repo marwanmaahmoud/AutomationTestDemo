@@ -12,6 +12,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 
+//this is for CICD
 public class AbstractComponants
 {
      WebDriver driver;
